@@ -1,0 +1,1 @@
+package br.edu.pi.cupcakes; public class CupcakesApplication { public static void main(String[] args) { System.out.println("Backend"); } }

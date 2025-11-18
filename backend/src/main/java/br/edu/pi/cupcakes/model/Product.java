@@ -1,0 +1,1 @@
+package br.edu.pi.cupcakes.model; public class Product {}
